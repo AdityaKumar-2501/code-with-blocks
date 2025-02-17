@@ -12,6 +12,11 @@ Code With Blocks is a fun and kid-friendly website that helps children learn pro
 - User friendly and Easy to use
 
 
+## Video Example
+
+[https://www.youtube.com/embed/cD0D-QSKG20?si=EOZOJ5BqgZt7U_o5](https://drive.google.com/file/d/16zvshJggUrsq-JfiEU9dA6QF5osCq8Po/view?usp=sharing)
+
+
 ## Installation
 
 
