@@ -1,6 +1,6 @@
 import React from 'react'
 import BlocklyEditor from './components/BlocklyEditor'
-import './app.css'
+import './App.css'
 function App() {
   return (
     <div className='container'>
